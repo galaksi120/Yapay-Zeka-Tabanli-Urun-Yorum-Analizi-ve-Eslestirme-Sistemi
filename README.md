@@ -54,3 +54,9 @@ Yapay Zekâ Analizi:
 LLM (Gemini) tabanlı modeller ile sahte yorum tespiti
 
 Yorumların özetlenmesi ve sınıflandırılması
+## 📌 Proje Hakkında
+
+Bu proje, galaksi120 hesabı tarafından geliştirilmiş ve ilk olarak **2 Ekim 2025** tarihinde GitHub üzerinde paylaşılmıştır.
+
+Projede yer alan kodlar ve içerikler, yazılım becerilerimi göstermek amacıyla paylaşılmıştır.  
+İnceleme ve değerlendirme amaçlı kullanılabilir, ancak içeriklerin izinsiz şekilde çoğaltılması, ödev olarak sunulması veya ticari kullanımı uygun değildir.
