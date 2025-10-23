@@ -1,4 +1,16 @@
 # Yapay-Zeka-Tabanli-Urun-Yorum-Analizi-ve-Eslestirme-Sistemi
+# ⚠️ ÖNEMLİ NOT
+
+## 🧩 Projenin Kökeni
+Bu proje geliştirici **[@galaksi120]** tarafından **BTK Hackathon** yarışması kapsamında hazırlanmıştır.  
+
+## 💾 Paylaşım Bilgisi
+Proje dosyaları geliştiricinin **iki farklı GitHub hesabında** (yarışma ve kişisel hesap)  @ngleex1 ( Yarışma için kullandığım ) ve @galaksi120 (Bireysel olarak kullandığım) 
+**yedekleme ve sürüm kontrolü** amacıyla paylaşılmıştır.  
+
+## 🧠 Telif ve Özgünlük
+Her iki depodaki kod **tamamen geliştiriciye aittir** ve özgün şekilde oluşturulmuştur.
+
 🛍️ Yapay Zekâ Destekli Çoklu Platform Ürün Analiz ve Yorum Değerlendirme Sistemi
 
 Bu proje; Trendyol, N11 ve Hepsiburada e-ticaret sitelerinde bir ürünün bulunmasını, yorumlarının toplanmasını ve yapay zekâ ile analiz edilmesini sağlayan bir sistemdir.
