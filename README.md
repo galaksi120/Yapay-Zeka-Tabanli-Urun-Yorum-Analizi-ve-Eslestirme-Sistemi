@@ -2,7 +2,7 @@
 # ⚠️ ÖNEMLİ NOT
 
 ## 🧩 Projenin Kökeni
-Bu proje geliştirici **[@galaksi120]** tarafından **BTK Hackathon** yarışması kapsamında hazırlanmıştır.  
+Bu proje geliştirici **galaksi120** tarafından **BTK Hackathon** yarışması kapsamında hazırlanmıştır.  
 
 ## 💾 Paylaşım Bilgisi
 Proje dosyaları geliştiricinin **iki farklı GitHub hesabında** (yarışma ve kişisel hesap)  @ngleex1 ( Yarışma için kullandığım ) ve @galaksi120 (Bireysel olarak kullandığım) 
@@ -14,6 +14,7 @@ Her iki depodaki kod **tamamen geliştiriciye aittir** ve özgün şekilde oluş
 🛍️ Yapay Zekâ Destekli Çoklu Platform Ürün Analiz ve Yorum Değerlendirme Sistemi
 
 Bu proje; Trendyol, N11 ve Hepsiburada e-ticaret sitelerinde bir ürünün bulunmasını, yorumlarının toplanmasını ve yapay zekâ ile analiz edilmesini sağlayan bir sistemdir.
+Proje, geliştiricinin iki farklı GitHub hesabında ([@ngleex1](https://github.com/ngleex1) ve [@galaksi120](https://github.com/galaksi120)) paylaşılmıştır.
 
 Sistem şu adımları gerçekleştirir:
 
